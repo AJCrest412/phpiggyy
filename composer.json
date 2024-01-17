@@ -1,0 +1,17 @@
+{
+  "name": "jatinagrawal/phpiggy",
+  "description": "A PHP spplicstion for tracking expenses.",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Jatin Agrawal"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "src/Framework",
+      "App\\": "src/App"
+    }
+  }
+}
